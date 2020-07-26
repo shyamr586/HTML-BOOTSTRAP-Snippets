@@ -3,10 +3,10 @@ The code pasted allows users to create huge blocks of code by typing few letter 
 
 ## Method:
 
-    1. Open Visual Studio Code.
-    2. Click on **File**>**Preferences**>**User Snippets**
-    3. On the search bar that appears, search for ***html.json*** and select the option.
-    4. Paste [this pastebin code](https://pastebin.com/raw/fnx654Tr) to the **html.json** file.
+1. Open Visual Studio Code.
+2. Click on **File**>**Preferences**>**User Snippets**
+3. On the search bar that appears, search for ***html.json*** and select the option.
+4. Paste [this pastebin code](https://pastebin.com/raw/fnx654Tr) to the **html.json** file.
 
 ## NOTE: 
 
