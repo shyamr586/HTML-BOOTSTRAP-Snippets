@@ -21,22 +21,21 @@ The code pasted allows users to create huge blocks of code by typing few letter 
 
   Once the snippet is edited properly, you can create blocks of code with shortcuts. Keywords/shortcuts:
      
-1. **html-default**/**hd**
-creates html,head and body tags with title, link to CSS and script link to external .js file.
+1. **html-default**/**hd**: creates html,head and body tags with title, link to CSS and script link to external .js file.
 
-2. **html-bootstrap/hb** creates html,head and body tags with title, link to CSS, CDN for bootstrap, script tags and jQuery required for bootstrap.
+2. **html-bootstrap**/**hb**: creates html,head and body tags with title, link to CSS, CDN for bootstrap, script tags and jQuery required for bootstrap.
 
-3. **form/form-default/fd** creates a basic form with input tags (normal, radio buttons, submit buttons and checkbox).
+3. **form**/**form-default**/**fd**: creates a basic form with input tags (normal, radio buttons, submit buttons and checkbox).
 
-4. **table/table-default-html/tdh** creates a table structure with **th**,**tr** and **td** tags.
+4. **table**/**table-default-html**/**tdh**: creates a table structure with **th**,**tr** and **td** tags.
 
-5. **bootstrap-grid/bg/default-bootstrap-grid/dbg/grid-bootstrap/gb** creates a simple bootstrap grid structure.
+5. **bootstrap-grid**/**bg**/**default-bootstrap-grid**/**dbg**/**grid-bootstrap**/**gb**: creates a simple bootstrap grid structure.
 
-6. **bootstrap-carousel/bc/carousel-bootstrap/cb** creates blocks of code for a bootstrap carousel.
+6. **bootstrap-carousel**/**bc**/**carousel-bootstrap**/**cb**: creates blocks of code for a bootstrap carousel.
 
-7. **bootstrap-jumbotron/bj/default-bootstrap-jumbotron/dbj/jumbotron-bootstrap/jb** creates a basic bootstrap jumbotron.
+7. **bootstrap-jumbotron**/**bj**/**default-bootstrap-jumbotron**/**dbj**/**jumbotron-bootstrap**/**jb**: creates a basic bootstrap jumbotron.
 
-8. **bootstrap-navbar/bn/default-bootstrap-navbar/dbn/navbar-bootstrap/nb** creates a basic bootstrap navbar.
+8. **bootstrap-navbar**/**bn**/**default-bootstrap-navbar**/**dbn**/**navbar-bootstrap**/**nb**: creates a basic bootstrap navbar.
      
  ## NOTE: 
 
