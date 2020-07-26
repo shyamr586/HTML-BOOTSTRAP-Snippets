@@ -4,6 +4,7 @@ The code pasted allows users to create huge blocks of code by typing few letter 
 ## Method:
 
 1. Open Visual Studio Code.
+
 2. Click on **File**>**Preferences**>**User Snippets**.
 
 ![Step 2](https://raw.githubusercontent.com/shyamr586/HTML-BOOTSTRAP-Snippets/master/step2.JPG)
