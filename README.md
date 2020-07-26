@@ -20,4 +20,4 @@ The code pasted allows users to create huge blocks of code by typing few letter 
 
 ## NOTE: 
 
-  If the above method does not work, download the **html.json** file and paste it under the ***snippets*** directory (this can be seen onn top of the  once the **html.json** file is opened) **OR** simply paste the provided contents under **html.json**.
+  If the above method does not work, download the **html.json** file and paste it under the ***snippets*** directory (this can be seen on top  once the **html.json** file is opened, seen in step 4 image) **OR** simply paste the provided contents under **html.json**.
