@@ -21,7 +21,8 @@ The code pasted allows users to create huge blocks of code by typing few letter 
 
   Once the snippet is edited properly, you can create blocks of code with shortcuts. Keywords/shortcuts:
      
-1. **html-default/hd** creates html,head and body tags with title, link to CSS and script link to external .js file.
+1. **html-default**/**hd**
+creates html,head and body tags with title, link to CSS and script link to external .js file.
 
 2. **html-bootstrap/hb** creates html,head and body tags with title, link to CSS, CDN for bootstrap, script tags and jQuery required for bootstrap.
 
